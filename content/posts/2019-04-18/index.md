@@ -8,7 +8,8 @@ category: "Virginia"
 tags: ['Medical Malpractice', 'Virginia', 'Ishtiaq Ahmad']
 ---
 
-[](./IshtiaqAhmad.jpg)
+![Ishtiaq Ahmad - Herndon VA](./IshtiaqAhmad.jpg)
+
 ##From the License Lookup for Dr. Ishtiaq Ahmad of Herndon VA
 
 License Information
