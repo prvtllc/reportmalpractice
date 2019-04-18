@@ -1,6 +1,6 @@
 ---
 path: "/dr-adegbenga-a-bankole-virginia"
-cover: "../2019-04-18/blocks.jpg"
+cover: "../ahmad/blocks.jpg"
 date: "2019-04-16"
 title: "Dr. Adegbenga A Bankole - Virginia"
 category: "Virginia"
