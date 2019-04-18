@@ -7,6 +7,8 @@ published: true
 category: "Virginia"
 tags: ['Medical Malpractice', 'Virginia', 'Ishtiaq Ahmad']
 ---
+
+[](./IshtiaqAhmad.jpg)
 ##From the License Lookup for Dr. Ishtiaq Ahmad of Herndon VA
 
 License Information
@@ -16,7 +18,7 @@ Name	Ishtiaq Ahmad
 Address	Herndon, VA 20170
 Initial License Date	10/26/2000
 Expire Date	12/12/2018
-License Status	Suspended
+**License Status	Suspended**
 
 ##From the original report:
 
