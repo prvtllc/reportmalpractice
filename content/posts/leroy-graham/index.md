@@ -8,7 +8,7 @@ tags: ['Medical Malpractice', 'Virginia', 'Leroy Graham Jr']
 published: true
 ---
 
-[Dr. Leroy Graham Jr, Newport News, VA](./graham.jpg)
+![Dr. Leroy Graham Jr, Newport News, VA](./graham.jpg)
 
 ##From the License Lookup for Dr. Leroy Graham Jr, Newport News, VA
 

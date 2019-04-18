@@ -1,6 +1,6 @@
 ---
 path: "/dr-gurpreet-s-bajwa-of-fairfax-va"
-cover: "../2019-04-16/speed.jpg"
+cover: "../bankole/speed.jpg"
 date: "2019-04-17"
 title: "Dr. Gurpreet S Bajwa of Fairfax, VA"
 category: "Virginia"
