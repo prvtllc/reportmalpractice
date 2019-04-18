@@ -1,6 +1,6 @@
 ---
 path: "/ishtiaq-ahmad-herndon-va"
-cover: "./IshtiaqAhmad.png"
+cover: "./IshtiaqAhmad.jpg"
 date: "2019-04-18"
 title: "Ishtiaq Ahmad - Herndon VA"
 published: true
