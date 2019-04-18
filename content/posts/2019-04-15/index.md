@@ -8,6 +8,8 @@ tags: ['Medical Malpractice', 'Virginia', 'John Bulette']
 published: true
 ---
 
+![Dr. John Bulette, Nassawadox, VA](./Bulette.jpg)
+
 ##From the License Lookup for Dr. John Bulette, Nassawadox, VA
 
 License Number	0101051010
